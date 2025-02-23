@@ -1,0 +1,15 @@
+# Ignorar archivos compilados
+*.class
+*.jar
+
+# Ignorar carpetas de compilación
+out/
+bin/
+target/
+
+# Ignorar configuraciones de IDEs
+.idea/
+.vscode/
+
+# Ignorar META-INF generado automáticamente
+META-INF/
